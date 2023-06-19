@@ -1,3 +1,4 @@
+> It's a fork of v7 of original [react-day-picker](https://www.npmjs.com/package/react-day-picker) which enable `React 18` support
 <p align="center">
 <a href="http://react-day-picker.js.org"><img width="80" style="margin: 0 auto" alt="title" src="https://user-images.githubusercontent.com/120693/33364057-0d4a962a-d4e3-11e7-8506-0f9aede2b345.png"></a>
 </p>
